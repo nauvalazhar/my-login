@@ -3,7 +3,7 @@ html,body {
 }
 
 body.my-login-page {
-	background-color: #f7f9fb;
+	background-color: #313131;
 	font-size: 14px;
 }
 
@@ -33,10 +33,12 @@ body.my-login-page {
 
 .my-login-page .card.fat {
 	padding: 10px;
+	background: #414141;
 }
 
 .my-login-page .card .card-title {
 	margin-bottom: 30px;
+	color: #fff;
 }
 
 .my-login-page .form-control {
@@ -45,6 +47,7 @@ body.my-login-page {
 
 .my-login-page .form-group label {
 	width: 100%;
+	color: #fff;
 }
 
 .my-login-page .btn.btn-block {
